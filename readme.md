@@ -307,4 +307,4 @@ This project demonstrates a modular, transparent multi-agent system capable of:
 * Generating structured hypotheses
 * Validating them with numeric data
 * Proposing new ad creative variants
-* Producing human-readable reports
+* Producing human-readable reports.
