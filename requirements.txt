@@ -1,0 +1,6 @@
+pandas
+pyyaml==6.0.1
+pytest
+python-dotenv
+ftfy
+openai

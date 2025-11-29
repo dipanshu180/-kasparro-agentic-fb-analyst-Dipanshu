@@ -1,0 +1,8 @@
+data_path: "D:/New_folder/Programming/Drive_project/data/synthetic_fb_ads_undergarments.csv"
+clean_data_path: "data/cleaned_ads.csv"
+
+low_ctr_threshold: 0.015
+low_roas_threshold: 2.0
+
+random_seed: 42
+llm_model: "gpt-4o-mini"
