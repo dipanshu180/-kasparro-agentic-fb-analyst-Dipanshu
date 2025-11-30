@@ -308,3 +308,5 @@ This project demonstrates a modular, transparent multi-agent system capable of:
 * Validating them with numeric data
 * Proposing new ad creative variants
 * Producing human-readable reports.
+
+# PR check update - This line forces a GitHub diff
